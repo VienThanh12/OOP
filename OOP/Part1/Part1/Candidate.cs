@@ -18,7 +18,6 @@
             get;
             set;
         }
-
         private int _votes;
         public int Votes
         {
