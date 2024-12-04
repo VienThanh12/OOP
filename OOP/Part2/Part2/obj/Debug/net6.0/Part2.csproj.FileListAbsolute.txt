@@ -1,0 +1,15 @@
+/Users/haducthanhvien/Projects/Part2/Part2/bin/Debug/net6.0/Part2
+/Users/haducthanhvien/Projects/Part2/Part2/bin/Debug/net6.0/Part2.deps.json
+/Users/haducthanhvien/Projects/Part2/Part2/bin/Debug/net6.0/Part2.runtimeconfig.json
+/Users/haducthanhvien/Projects/Part2/Part2/bin/Debug/net6.0/Part2.dll
+/Users/haducthanhvien/Projects/Part2/Part2/bin/Debug/net6.0/Part2.pdb
+/Users/haducthanhvien/Projects/Part2/Part2/obj/Debug/net6.0/Part2.csproj.AssemblyReference.cache
+/Users/haducthanhvien/Projects/Part2/Part2/obj/Debug/net6.0/Part2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haducthanhvien/Projects/Part2/Part2/obj/Debug/net6.0/Part2.AssemblyInfoInputs.cache
+/Users/haducthanhvien/Projects/Part2/Part2/obj/Debug/net6.0/Part2.AssemblyInfo.cs
+/Users/haducthanhvien/Projects/Part2/Part2/obj/Debug/net6.0/Part2.csproj.CoreCompileInputs.cache
+/Users/haducthanhvien/Projects/Part2/Part2/obj/Debug/net6.0/Part2.dll
+/Users/haducthanhvien/Projects/Part2/Part2/obj/Debug/net6.0/refint/Part2.dll
+/Users/haducthanhvien/Projects/Part2/Part2/obj/Debug/net6.0/Part2.pdb
+/Users/haducthanhvien/Projects/Part2/Part2/obj/Debug/net6.0/Part2.genruntimeconfig.cache
+/Users/haducthanhvien/Projects/Part2/Part2/obj/Debug/net6.0/ref/Part2.dll
